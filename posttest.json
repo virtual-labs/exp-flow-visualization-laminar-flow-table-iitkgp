@@ -1,0 +1,59 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Can we use Bernoulli’s principle to estimate the velocity of flow in laminar flow table?",
+        "answers": {
+          "a": "Yes",
+          "b": "No"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "In Laminar flow table, Karman Vortex Street is formed in the wake of?",
+        "answers": {
+          "a": "Airfoil",
+          "b": "Cylinder",
+          "c": "Both",
+          "d": "None"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "In LFT, an increase in flow rate passing the cylinder results in?",
+        "answers": {
+          "a": "Decrease in vortex shedding frequency",
+          "b": "Increase in vortex shedding frequency",
+          "c": "Downstream movement of separation point",
+          "d": "None of the above"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "In LFT, flow separation over an airfoil starts at angle of attack (α)?",
+        "answers": {
+          "a": "α < 5<sup>o</sup>",
+          "b": "5<sup>o</sup> < α < 10<sup>o</sup>",
+          "c": "α > 10<sup>o</sup>",
+          "d": "Never"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The combination of uniform flow and doublet provides?",
+        "answers": {
+          "a": "Sink flow",
+          "b": "Doublet flow",
+          "c": "Source flow",
+          "d": "Source-sink flow"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
