@@ -1,39 +1,61 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "The flow in which the parameters do not change with respect to time is called as",
+        "answers": {
+          "a": "Unsteady flow",
+          "b": "Transient flow",
+          "c": "Steady uniform flow",
+          "d": "Continuous flow"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "The flow in which streamlines are directed away from the origin is called as?",
+        "answers": {
+          "a": "Sink flow",
+          "b": "Doublet flow",
+          "c": "Source flow",
+          "d": "Source-sink flow"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "The opposite case of the source flow is?",
+        "answers": {
+          "a": "Sink flow",
+          "b": "Doublet flow",
+          "c": "Source flow",
+          "d": "Source-sink flow"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "When the velocity at a point becomes zero, it refers to?",
+        "answers": {
+          "a": "Slip condition",
+          "b": "No slip condition",
+          "c": "Positive slip condition",
+          "d": "Negative slip condition"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "According to d’Alember’s paradox, what happens when the flow over a body is irrotational?",
+        "answers": {
+          "a": "Results in infinite drag",
+          "b": "Results in zero drag",
+          "c": "Results in formation of vortices behind the body",
+          "d": "Results in body forces"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
