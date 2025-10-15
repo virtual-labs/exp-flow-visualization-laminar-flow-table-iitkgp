@@ -35,7 +35,7 @@
         "difficulty": "beginner"
       },
       {
-        "question": "When the velocity at a point becomes zero, it refers to?",
+        "question": "When the velocity at a point is zero, which of below it refers to?",
         "answers": {
           "a": "Slip condition",
           "b": "No slip condition",
