@@ -47,11 +47,11 @@
         "question": "The combination of uniform flow and doublet provides?",
         "answers": {
           "a": "Sink flow",
-          "b": "Doublet flow",
+          "b": "Flow over a cylinder",
           "c": "Source flow",
           "d": "Source-sink flow"
         },
-        "correctAnswer": "d",
+        "correctAnswer": "b",
         "difficulty": "beginner"
       }
     ]
